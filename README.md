@@ -1,4 +1,4 @@
-### Advanced Java Assignment - README
+#### Advanced Java Assignment 
 
 **Subject Name**: Advanced Java  
 **Subject Code**: BCS613D  
