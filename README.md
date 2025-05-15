@@ -1,11 +1,11 @@
 ### Advanced Java Assignment - README
 
 **Subject Name**: Advanced Java  
-**Subject Code**: BCS613D
-**Name**: Samay Shetty
-**USN**: 4AL22CS143
-**Sem/Section**: VI/C
-**Total Programs**: 28
+**Subject Code**: BCS613D  
+**Name**: Samay Shetty  
+**USN**: 4AL22CS143  
+**Sem/Section**: VI/C  
+**Total Programs**: 28  
 
 ---
 
