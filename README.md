@@ -19,38 +19,38 @@
 ### 1b.  Array List programs
 
 1. Write a java program for getting different colors through ArrayList interface and search whether the color "Red" is available or not
-   🔗 [Output Screenshot](https://dummy-link.com/1b1.png)
+   🔗 [Output Screenshot](Exp1-ListInterface/p1.png)
 
 2. Write a java program for getting different colors through ArrayList interface and remove the 2nd element and color "Blue" from the ArrayList
-   🔗 [Output Screenshot](https://dummy-link.com/1b2.png)
+   🔗 [Output Screenshot](Exp1-ListInterface/p2.png)
 
 3. Write a java program for getting different colors through ArrayList interface and  sort them using Collections.sort( ArrayListObj)
-   🔗 [Output Screenshot](https://dummy-link.com/1b3.png)
+   🔗 [Output Screenshot](Exp1-ListInterface/p3.png)
 
 4. Write a java program for getting different colors through ArrayList interface and extract the elements 1st and 2nd from the ArrayList object  by  using SubList()
-   🔗 [Output Screenshot](https://dummy-link.com/1b4.png)
+   🔗 [Output Screenshot](Exp1-ListInterface/p4.png)
 
 5. Write a java program for getting different colors through ArrayList interface and delete nth  element from the ArrayList object  by  using remove by index
-   🔗 [Output Screenshot](https://dummy-link.com/1b5.png)
+   🔗 [Output Screenshot](Exp1-ListInterface/p5.png)
 
 ---
 
 ### 1c. Linked List Programs
 
 1. Write a Java program to iterate through all elements in a linked list starting at the specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))
-   🔗 [Output Screenshot](https://dummy-link.com/1c1.png)
+   🔗 [Output Screenshot](Exp1-ListInterface/p6.png)
 
 2. Write a Java program to iterate a linked list in reverse order (using objlist.descendingIterator())
-   🔗 [Output Screenshot](https://dummy-link.com/1c2.png)
+   🔗 [Output Screenshot](Exp1-ListInterface/p7.png)
 
 3. Write a Java program to insert the specified element at the end of a linked list.( using l\_listobj.offerLast("Pink"))
-   🔗 [Output Screenshot](https://dummy-link.com/1c3.png)
+   🔗 [Output Screenshot](Exp1-ListInterface/p8.png)
 
 4. Write a Java program to display elements and their positions in a linked list ( using l\_listobj.get(p) )
-   🔗 [Output Screenshot](https://dummy-link.com/1c4.png)
+   🔗 [Output Screenshot](Exp1-ListInterface/p9.png)
 
 5. Write a Java program that swaps two elements ( first and third elements ) in a linked list  ( using Collections.swap(l\_list, 0, 2))
-   🔗 [Output Screenshot](https://dummy-link.com/1c5.png)
+   🔗 [Output Screenshot](Exp1-ListInterface/p10.png)
 
 ---
 
