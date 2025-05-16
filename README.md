@@ -232,11 +232,11 @@ Q10. Write a Java Program for  Counting the number of words in a string using us
 
 ### 8a. Q1. Read all the existing records from the table coffee which is from the database test and insert a new coffee product into it \[Create a table coffee with fields ( id,coffee\_name,price)] using HTML and JSP to get the fields and display the results respectively
 
-🔗 [Output Screenshot](https://dummy-link.com/8a.png)
+🔗 [Output Screenshot](Exp8-SQL+JDBC/8A/sql1.png)
 
 ### 8b. Read all the existing records from the table coffee which is from the database test and update an existing coffee product  in the table with its id. \[Create a table coffee with fields ( id,coffee\_name,price)] using HTML and JSP to get the fields and display the results respectively
 
-🔗 [Output Screenshot](https://dummy-link.com/8b.png)
+🔗 [Output Screenshot](Exp8-SQL+JDBC/8B/sql2.png)
 
 ### 8c. Develop a JDBC project using JSP to append  the fields empno,  empname and basicsalary into the table Emp of the database Employee by getting the fields  through keyboard and Generate the report as follows for the  TABLE Emp (Emp\_NO , Emp\_Name, Basicsalary ) using HTML and JSP to get the fields and display the results respectively
 
@@ -250,11 +250,11 @@ Q10. Write a Java Program for  Counting the number of words in a string using us
 
 ### 9a.  Read all the existing records from the table coffee which is from the database test and delete an existing coffee product  from the table with its id and display the rest of the records using HTML and JSP to get the field and display the results respectively
 
-🔗 [Output Screenshot](https://dummy-link.com/9a.png)
+🔗 [Output Screenshot](Exp8-SQL+JDBC/9A/sql1.png)
 
 ### 9b. Read all the existing records from the table coffee which is from the database test and query coffee name starting with ‘D’  in the table using HTML and JSP to get the field and display the results respectively
 
-🔗 [Output Screenshot](https://dummy-link.com/9b.png)
+🔗 [Output Screenshot](hExp8-SQL+JDBC/9B/sql2.png)
 
 ### 9c. Develop a JDBC project using MySQL to append  the fields empno,  empname and basicsalary into the table Emp of the database Employee by getting the fields  through keyboard and Generate the report as follows for the table Emp (Emp\_NO , Emp\_Name, Basicsalary ) using HTML and JSP to get the field and display the results respectively
 
