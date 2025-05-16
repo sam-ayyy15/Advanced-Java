@@ -169,15 +169,19 @@ Q10. Write a Java Program for  Counting the number of words in a string using us
 
 ### 4a. Basic hello program of Swing displaying the message Hello! VI C , Welcome to Swing Programming in Blue color plain font with font size of  32  using Jframe and Jlabel
 
-🔗 [Output Screenshot](https://dummy-link.com/4a.png)
+🔗 [Output Screenshot](Exp4-Swings1/welcome.png)
 
 ### 4b. Develop a Swing program in Java to display a message “Srilanka is pressed” or “India is pressed” depending upon the Jbutton either  Srilanka or India is pressed by implementing the event handling mechanism with addActionListener( ).
 
-🔗 [Output Screenshot](https://dummy-link.com/4b.png)
+🔗 [Output Screenshot](Exp4-Swings1/ButtonEx.png)
 
 ### 4c. Develop a Swing program in Java to display a message “Digital Clock is pressed” or “Hour Glass  is pressed” depending upon the Jbutton with image  either  Digital Clock or  Hour Glass is pressed by implementing the event handling mechanism with addActionListener( ).
 
-🔗 [Output Screenshot](https://dummy-link.com/4c.png)
+🔗 [Output Screenshot](Exp4-Swings1/ClockUI.png)
+
+### 4d. Develop a simple swing program for illustrating mouse operations such as mouse down, up double click , single click with help of a button
+
+🔗 [Output Screenshot](Exp4-Swings1/mouse.png)
 
 ---
 
