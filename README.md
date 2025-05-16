@@ -219,11 +219,14 @@ Q10. Write a Java Program for  Counting the number of words in a string using us
 
 ### 7a. Build a Session Management using JSP program set with one minute session expiry time  to get your name through text box and press submit  to  display  the message by greeting Hello your name!. Check the expiry of the session after one minute.
 
-🔗 [Output Screenshot](https://dummy-link.com/7a.png)
+🔗 [Output Screenshot 1](Exp7-JSPSessionManagement/session1.png)
+🔗 [Output Screenshot 2](Exp7-JSPSessionManagement/session2.png)
+🔗 [Output Screenshot 3](Exp7-JSPSessionManagement/session3.png)
 
 ### 7b. Construct a Cookie Management program using JSP to get the fields  Name, Domain and Max Expiry Age ( in sec) and press the button Add Cookie for displaying the set cookie information. Then it has to go to show the active cookie list when you press the link go to the active cookie list
 
-🔗 [Output Screenshot](https://dummy-link.com/7b.png)
+🔗 [Output Screenshot](hExp7-JSPCookieManagement/Cookie1.png)
+🔗 [Output Screenshot](hExp7-JSPCookieManagement/Cookie2.png)
 
 ---
 
