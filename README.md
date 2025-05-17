@@ -240,26 +240,33 @@ Q10. Write a Java Program for  Counting the number of words in a string using us
 
 ### 8c. Develop a JDBC project using JSP to append  the fields empno,  empname and basicsalary into the table Emp of the database Employee by getting the fields  through keyboard and Generate the report as follows for the  TABLE Emp (Emp\_NO , Emp\_Name, Basicsalary ) using HTML and JSP to get the fields and display the results respectively
 
-🔗 [Output Screenshot](https://dummy-link.com/8c.png)
+🔗 [Output Screenshot 1](Exp8-SQL+JDBC/8C/JDBC1.png)
+🔗 [Output Screenshot 2](Exp8-SQL+JDBC/8C/JDBC1.1.png)
+
 
 ### 8d. Develop a JDBC project using JDBC to update  the fields empno,  empname and basicsalary into the table Emp of the database Employee  using HTML and JSP to get the fields and display the results respectively
 
-🔗 [Output Screenshot](https://dummy-link.com/8d.png)
+🔗 [Output Screenshot 1](Exp8-SQL+JDBC/8D/JDBC2.png)
+🔗 [Output Screenshot 2](Exp8-SQL+JDBC/8D/JDBC2.1.png)
+🔗 [Output Screenshot 3](Exp8-SQL+JDBC/8D/JDBC2.2.png)
 
 ---
 
 ### 9a.  Read all the existing records from the table coffee which is from the database test and delete an existing coffee product  from the table with its id and display the rest of the records using HTML and JSP to get the field and display the results respectively
 
-🔗 [Output Screenshot](Exp8-SQL+JDBC/9A/sql1.png)
+🔗 [Output Screenshot](Exp9-SQL+JDBC/9A/sql1.png)
 
 ### 9b. Read all the existing records from the table coffee which is from the database test and query coffee name starting with ‘D’  in the table using HTML and JSP to get the field and display the results respectively
 
-🔗 [Output Screenshot](hExp8-SQL+JDBC/9B/sql2.png)
+🔗 [Output Screenshot](Exp9-SQL+JDBC/9B/sql2.png)
 
 ### 9c. Develop a JDBC project using MySQL to append  the fields empno,  empname and basicsalary into the table Emp of the database Employee by getting the fields  through keyboard and Generate the report as follows for the table Emp (Emp\_NO , Emp\_Name, Basicsalary ) using HTML and JSP to get the field and display the results respectively
 
-🔗 [Output Screenshot](https://dummy-link.com/9c.png)
+🔗 [Output Screenshot 1](Exp9-SQL+JDBC/9C/JDBC3.png)
+🔗 [Output Screenshot 2](Exp9-SQL+JDBC/9C/JDBC3.1.png)
 
 ### 9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database Employee by getting the name starting with ‘S’   through keyboard and Generate the report as follows using HTML and JSP to get the field and display the results respectively
 
-🔗 [Output Screenshot](https://dummy-link.com/9d.png)
+🔗 [Output Screenshot 1](Exp9-SQL+JDBC/9D/JDBC4.png)
+🔗 [Output Screenshot 2](Exp9-SQL+JDBC/9D/JDBC4.1.png)
+
