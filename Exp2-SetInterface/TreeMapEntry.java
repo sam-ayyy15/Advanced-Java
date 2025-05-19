@@ -7,7 +7,7 @@ package ex1;
 import java.util.*;
 
 
-public class TreeMap1 {
+public class TreeMapEntry {
 	public static void main(String [] arg)
 	{
 		TreeMap<String,String> m=new TreeMap<>();
