@@ -8,7 +8,7 @@ package ex1;
 import java.util.HashMap;
 
 
-public class Hashmap3 {
+public class forEach {
 	public static void main(String [] arg)
 	{
 		HashMap<Integer,String> m=new HashMap<>();
