@@ -4,7 +4,7 @@ defined function truncate()
  */
 package strings;
 
-public class exp7 {
+public class trauncate {
 	
 
 		    public static String truncate(String str, int maxLength) {
