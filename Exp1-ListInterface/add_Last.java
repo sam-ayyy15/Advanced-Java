@@ -3,7 +3,7 @@
  */
 package listInterface;
 import java.util.*;
-public class p8 {
+public class add_Last {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
