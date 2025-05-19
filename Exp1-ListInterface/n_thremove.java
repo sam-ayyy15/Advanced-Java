@@ -4,7 +4,7 @@ element from the ArrayList object by using remove by index
  */
 package listInterface;
 import java.util.*;
-public class p5 {
+public class n_thremove {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
