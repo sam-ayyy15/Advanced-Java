@@ -266,7 +266,7 @@ Q10. Write a Java Program for  Counting the number of words in a string using us
 🔗 [Output Screenshot 1](Exp9-SQL+JDBC/9C/JDBC3.png)
 🔗 [Output Screenshot 2](Exp9-SQL+JDBC/9C/JDBC3.1.png)
 
-### 9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database Employee by getting the name starting with ‘S’   through keyboard and Generate the report as follows using HTML and JSP to get the field and display the results respectively
+### 9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database Employee by getting the name starting with ‘ID’   through keyboard and Generate the report as follows using HTML and JSP to get the field and display the results respectively
 
 🔗 [Output Screenshot 1](Exp9-SQL+JDBC/9D/JDBC4.png)
 🔗 [Output Screenshot 2](Exp9-SQL+JDBC/9D/JDBC4.1.png)
