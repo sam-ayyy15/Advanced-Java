@@ -8,7 +8,7 @@ package ex1;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-public class LinkedHashMap2 {
+public class ProgramLanguages {
 	public static void main(String [] arg)
 	{
 		LinkedHashMap<String,String> m=new LinkedHashMap<>();
