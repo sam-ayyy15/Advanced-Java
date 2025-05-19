@@ -4,7 +4,7 @@ using Collections.sort( ArrayListObj)
  */
 package listInterface;
 import java.util.*;
-public class p3 {
+public class array_sort {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
