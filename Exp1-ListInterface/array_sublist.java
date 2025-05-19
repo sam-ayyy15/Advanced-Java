@@ -4,7 +4,7 @@ elements 1st and 2nd from the ArrayList object by using SubList()
  */
 package listInterface;
 import java.util.*;
-public class p4 {
+public class array_sublist {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
