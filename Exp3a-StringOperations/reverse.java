@@ -4,7 +4,7 @@ reverseString().
  */
 package strings;
 
-public class exp3 {
+public class reverse {
 	
 
 		    public static String reverseString(String str) {
