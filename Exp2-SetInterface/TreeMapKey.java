@@ -8,7 +8,7 @@ package ex1;
 import java.util.TreeMap;
 
 
-public class TreeMap4 {
+public class TreeMapKey {
 	public static void main(String [] arg)
 	{
 		TreeMap<String,String> m=new TreeMap<>();
