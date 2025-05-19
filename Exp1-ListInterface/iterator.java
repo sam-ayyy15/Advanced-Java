@@ -5,7 +5,7 @@ specified position ( 2nd) using iterator
 package listInterface;
 import java.util.Iterator;
 import java.util.*;
-public class p6 {
+public class iterator {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
