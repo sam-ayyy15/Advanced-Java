@@ -11,7 +11,7 @@ package ex1;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-public class LinkedHashMap3 {
+public class IterateLanguages {
 	public static void main(String [] arg)
 	{
 		LinkedHashMap<String,String> m=new LinkedHashMap<>();
