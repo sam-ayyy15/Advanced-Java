@@ -3,7 +3,7 @@
  */
 package listInterface;
 import java.util.*;
-public class p10 {
+public class swap_element {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
