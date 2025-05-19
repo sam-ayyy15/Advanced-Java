@@ -5,7 +5,7 @@ package listInterface;
 import java.util.Iterator;
 import java.util.LinkedList;
 
-public class p7 {
+public class descIterator {
 
 	public static void main(String[] args) {
 		
