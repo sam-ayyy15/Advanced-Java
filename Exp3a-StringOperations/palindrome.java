@@ -4,7 +4,7 @@ and punctuation) using user defined function isPalindrome():
  */
 package strings;
 
-public class exp4 {
+public class palindrome{
 
 
 		    public static boolean isPalindrome(String str) {
