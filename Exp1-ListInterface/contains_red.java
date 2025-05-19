@@ -4,7 +4,7 @@ the color "Red" is available or not
  */
 package listInterface;
 import java.util.*;
-public class p1 {
+public class contains_red {
 
 	public static void main(String[] args) {
 		
