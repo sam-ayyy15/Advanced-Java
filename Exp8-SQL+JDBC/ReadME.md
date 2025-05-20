@@ -10,7 +10,7 @@ CREATE TABLE IF NOT EXISTS `coffee` (
 `priced` int(5), PRIMARY KEY (`id`)  
 );
 
--- insert
+-- insert  
 INSERT INTO coffee values (101,'Febary',120);
 INSERT INTO coffee values (102,'Royal',140);
 INSERT INTO coffee values (103,'Diamond',180);
@@ -25,6 +25,6 @@ CREATE TABLE 'Emp' (
 'Emp_Name' TEXT NOT NULL,  
 'Basicsalary' INTEGER  
 );  
--- insert
+-- insert  
 INSERT INTO EMPLOYEE VALUES (101, 'Ramesh', 25000);
 INSERT INTO EMPLOYEE VALUES (102, 'Ravi', 20000);
