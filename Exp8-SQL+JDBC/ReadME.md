@@ -3,11 +3,13 @@
 ### 8B. Read all the existing records from the table coffee which is from the database test and update an existing coffee product  in the table with its id. \[Create a table coffee with fields ( id,coffee\_name,price)] using HTML and JSP to get the fields and display the results respectively
 ---
 ## SQL STRUCTURE FOR 8A/8B
+
 CREATE TABLE IF NOT EXISTS `coffee` (  
 `id` int(5) NOT NULL AUTO_INCREMENT,  
 `coffee_name` varchar(100) NOT NULL,  
 `priced` int(5), PRIMARY KEY (`id`)  
 );
+
 -- insert
 INSERT INTO coffee values (101,'Febary',120);
 INSERT INTO coffee values (102,'Royal',140);
@@ -18,11 +20,11 @@ INSERT INTO coffee values (103,'Diamond',180);
 ### 8d. Develop a JDBC project using JDBC to update  the fields empno,  empname and basicsalary into the table Emp of the database Employee  using HTML and JSP to get the fields and display the results respectively
 ---
 ## SQL STRUCTURE FOR 8C/8D
-CREATE TABLE 'Emp' (
-'Emp_NO' INTEGER PRIMARY KEY,
-'Emp_Name' TEXT NOT NULL,
-'Basicsalary' INTEGER
-);
+CREATE TABLE 'Emp' (  
+'Emp_NO' INTEGER PRIMARY KEY,  
+'Emp_Name' TEXT NOT NULL,  
+'Basicsalary' INTEGER  
+);  
 -- insert
 INSERT INTO EMPLOYEE VALUES (101, 'Ramesh', 25000);
 INSERT INTO EMPLOYEE VALUES (102, 'Ravi', 20000);
