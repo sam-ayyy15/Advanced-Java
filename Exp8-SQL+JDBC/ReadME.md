@@ -11,9 +11,11 @@ CREATE TABLE IF NOT EXISTS `coffee` (
 );
 
 -- insert  
+
 INSERT INTO coffee values (101,'Febary',120);
 INSERT INTO coffee values (102,'Royal',140);
 INSERT INTO coffee values (103,'Diamond',180);
+
 ---
 ### 8c. Develop a JDBC project using JSP to append  the fields empno,  empname and basicsalary into the table Emp of the database Employee by getting the fields  through keyboard and Generate the report as follows for the  TABLE Emp (Emp\_NO , Emp\_Name, Basicsalary ) using HTML and JSP to get the fields and display the results respectively
 
