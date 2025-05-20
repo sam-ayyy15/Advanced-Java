@@ -17,9 +17,9 @@ INSERT INTO coffee values (102,'Royal',140);
 INSERT INTO coffee values (103,'Diamond',180);
 
 ---
-### 8c. Develop a JDBC project using JSP to append  the fields empno,  empname and basicsalary into the table Emp of the database Employee by getting the fields  through keyboard and Generate the report as follows for the  TABLE Emp (Emp\_NO , Emp\_Name, Basicsalary ) using HTML and JSP to get the fields and display the results respectively
+### 8C. Develop a JDBC project using JSP to append  the fields empno,  empname and basicsalary into the table Emp of the database Employee by getting the fields  through keyboard and Generate the report as follows for the  TABLE Emp (Emp\_NO , Emp\_Name, Basicsalary ) using HTML and JSP to get the fields and display the results respectively
 
-### 8d. Develop a JDBC project using JDBC to update  the fields empno,  empname and basicsalary into the table Emp of the database Employee  using HTML and JSP to get the fields and display the results respectively
+### 8D. Develop a JDBC project using JDBC to update  the fields empno,  empname and basicsalary into the table Emp of the database Employee  using HTML and JSP to get the fields and display the results respectively
 ---
 ## SQL STRUCTURE FOR 8C/8D
 CREATE TABLE 'Emp' (  
